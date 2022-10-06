@@ -1,0 +1,8 @@
+Touch fichier.extenstion
+
+Git add *
+
+Git stash 
+
+Git stash apply 
+Git stash apply stash@(numero_stash)
